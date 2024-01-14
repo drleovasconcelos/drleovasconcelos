@@ -1,3 +1,6 @@
+![image](https://github.com/drleovasconcelos/drleovasconcelos/assets/111660177/be4fb370-ea64-43ab-82ba-da3e55926ffe)
+
+
 ### Hi there 👋
 
 <!--
