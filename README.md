@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - 🔭 Atualmente estou trabalhando em cargo de Gestão no Centro Universitário Estácio do Ceará, no entanto sigo encantado com os conhecimentos que venho adquirindo na área da tecnologia.
 - 🌱 Desta forma, atualmente estou estudando e me aprofundando em Análise de Dados e fazendo o curso de Full Stack. 
 -->
--->
