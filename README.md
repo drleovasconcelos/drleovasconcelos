@@ -50,7 +50,7 @@ Atualmente atuo em uma posição de gestão no Centro Universitário Estácio do
 
 ### GitHub Activity
 
-![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/drleovasconcelos/drleovasconcelos/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **drleovasconcelos/drleovasconcelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
