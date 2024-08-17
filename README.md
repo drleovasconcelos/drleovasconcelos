@@ -1,10 +1,10 @@
 ![image](https://github.com/drleovasconcelos/drleovasconcelos/assets/111660177/be4fb370-ea64-43ab-82ba-da3e55926ffe)
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Artur!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Leonardo!;" />
 </h1>
 
-## Oiii eu sou a Leonardo Freire, programador Full Stack e Apaixonado por Tecnologia!
+## Programador Full Stack e Apaixonado por Tecnologia!
 
 Atualmente atuo em uma posição de gestão no Centro Universitário Estácio do Ceará, mas minha verdadeira paixão é a tecnologia. Ao longo dos anos, venho me dedicando a aprender e explorar cada vez mais este universo fascinante.
 
@@ -53,6 +53,11 @@ Atualmente atuo em uma posição de gestão no Centro Universitário Estácio do
 </picture>
 
 ### GitHub Activity
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
+
 ![snake gif](https://github.com/drleovasconcelos/drleovasconcelos/blob/output/github-contribution-grid-snake.svg)
 
 <!--
