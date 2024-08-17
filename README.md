@@ -49,8 +49,7 @@ Atualmente atuo em uma posição de gestão no Centro Universitário Estácio do
 </picture>
 
 ### GitHub Activity
-
-![Snake animation](https://github.com/drleovasconcelos/drleovasconcelos/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/your-user-name/drleovasconcelos/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **drleovasconcelos/drleovasconcelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
