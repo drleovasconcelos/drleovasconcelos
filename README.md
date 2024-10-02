@@ -1,5 +1,5 @@
-![image](https://github.com/drleovasconcelos/drleovasconcelos/assets/111660177/be4fb370-ea64-43ab-82ba-da3e55926ffe)
-
+![image](https://github.com/drleovasconcelos/drleovasconcelos/blob/main/Leonardo_Phoenix_A_horizontal_banner_showcasing_a_FullStack_de_0.jpg)
+<!--https://github.com/drleovasconcelos/drleovasconcelos/assets/111660177/be4fb370-ea64-43ab-82ba-da3e55926ffe-->
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Leonardo!;" />
 </h1>
