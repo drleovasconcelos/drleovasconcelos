@@ -6,7 +6,7 @@
 
 ## Programador Full Stack e Apaixonado por Tecnologia!
 
-Atualmente atuo em uma posição de gestão no Centro Universitário Estácio do Ceará, mas minha verdadeira paixão é a tecnologia. Ao longo dos anos, venho me dedicando a aprender e explorar cada vez mais este universo fascinante.
+Atualmente atuo em uma posição de gestão em um Centro Universitário, mas minha verdadeira paixão é a tecnologia. Ao longo dos anos, venho me dedicando a aprender e explorar cada vez mais este universo fascinante.
 
 🌱 Aprendizado Contínuo: Estou continuamente me aperfeiçoando em Análise de Dados e Desenvolvimento Full Stack, o que me permite transformar dados em insights valiosos e construir soluções tecnológicas robustas e eficientes.
 
